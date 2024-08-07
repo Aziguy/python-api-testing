@@ -1,0 +1,4 @@
+black==24.4.2
+click==8.1.7
+pre-commit==3.7.1
+
